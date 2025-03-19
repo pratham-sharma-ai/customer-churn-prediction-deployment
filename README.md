@@ -184,14 +184,14 @@ This solution not only delivers **technical rigor**, but also ensures **strategi
 
 ---
 
-📝 What's Next?
+## 📝 What's Next?
 1. Model Retraining every quarter
 2. Cost-benefit reassessment based on updated churn behavior
 3. Integration with CRM for automated targeting
 
 ---
 
-📒 Additional Details
+## 📒 Additional Details
 All step-by-step methodologies, analyses, and recommendations are thoroughly documented in the notebook markdown.
 This provides clarity, reproducibility, and business relevance, making it a highly valuable reference for decision-makers.
 
